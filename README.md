@@ -27,7 +27,7 @@ My main focus is on modern frontend technologies like **React, Next.js, and Type
   <table width="100%">
     <tr>
       <td align="center" valign="top" width="20%">
-        <sub>Current</sub><br /><br />
+        <sub title="17/09/2025 - 10/12/2025">Sep 2025 - Dec 2025</sub><br /><br />
         <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://fptsoftware.com&size=32" width="28" height="28" /><br /><br />
         <a href="https://fptsoftware.com/"><b>FPT Software</b></a><br />
         <sub>FPT Academy</sub><br />
