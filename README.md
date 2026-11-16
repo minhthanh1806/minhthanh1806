@@ -9,6 +9,8 @@
   <a href="mailto:lolaugus8@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail" alt="Email"></a>
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8px" alt="Line Divider" />
+
 ## About Me 
 
 I'm an **Intern Frontend Developer** at **FPT Academy (FPT Software)** with a strong passion for web technologies and user experience. I love transforming UI/UX designs into responsive, dynamic, and intuitive web applications.
@@ -16,6 +18,8 @@ I'm an **Intern Frontend Developer** at **FPT Academy (FPT Software)** with a st
 My main focus is on modern frontend technologies like **React, Next.js, and TypeScript**, writing clean, maintainable code, and optimizing web performance.
 
 ### [🌐 Check Out My Portfolio Website](https://minhthanh1806.github.io/)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8px" alt="Line Divider" />
       
 ## Experience
 
@@ -32,6 +36,8 @@ My main focus is on modern frontend technologies like **React, Next.js, and Type
     </tr>
   </table>
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8px" alt="Line Divider" />
 
 ## Technical Skillset
 
@@ -85,6 +91,8 @@ My main focus is on modern frontend technologies like **React, Next.js, and Type
   </table>
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8px" alt="Line Divider" />
+
 ## Activities & Stats
 
 <div align="center">
@@ -100,4 +108,10 @@ My main focus is on modern frontend technologies like **React, Next.js, and Type
       </td>
     </tr>
   </table>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8px" alt="Line Divider" />
+
+<div align="center">
+  <img src="asset/thank-you-banner.png" width="100%" alt="Portfolio Footer" />
 </div>
