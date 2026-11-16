@@ -15,7 +15,7 @@
 
 I'm an **Intern Frontend Developer** at **FPT Academy (FPT Software)** with a strong passion for web technologies and user experience. I love transforming UI/UX designs into responsive, dynamic, and intuitive web applications.
 
-My main focus is on modern frontend technologies like **React, Next.js, and TypeScript**, writing clean, maintainable code, and optimizing web performance.
+My main focus is on modern frontend technologies like **React and JavaScript**, writing clean, maintainable code, and optimizing web performance.
 
 ### [🌐 Check Out My Portfolio Website](https://minhthanh1806.github.io/)
 
@@ -49,24 +49,18 @@ My main focus is on modern frontend technologies like **React, Next.js, and Type
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
       </td>
     </tr>
     <tr>
       <td><b>⚛️ Frameworks &amp; Libraries</b></td>
       <td>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-        <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux"/>
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-        <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass"/>
         <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
       </td>
     </tr>
     <tr>
       <td><b>🛠️ Build &amp; Tools</b></td>
       <td>
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
         <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black" alt="Webpack"/>
         <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm"/>
       </td>
