@@ -84,3 +84,20 @@ My main focus is on modern frontend technologies like **React, Next.js, and Type
     </tr>
   </table>
 </div>
+
+## Activities & Stats
+
+<div align="center">
+  <table border="0" style="border-collapse: collapse; border: none;">
+    <tr style="border: none;">
+      <td width="58%" align="center" style="border: none; padding: 10px;" valign="middle">
+        <img src="https://raw.githubusercontent.com/minhthanh1806/minhthanh1806/output/github-isometric-calendar.svg" width="560px" alt="Contribution Cityscape" />
+      </td>
+      <td width="42%" align="center" style="border: none; padding: 10px;" valign="middle">
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=minhthanh1806&theme=tokyonight&show_icons=true&include_all_commits=true&bg_color=0b0f19&title_color=06B6D4&text_color=e5e7eb&icon_color=8B5CF6&border_color=1f2937&hide_border=false" width="380" alt="GitHub Stats" />
+        <br /><br />
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=minhthanh1806&layout=compact&theme=tokyonight&bg_color=0b0f19&title_color=06B6D4&text_color=e5e7eb&icon_color=8B5CF6&border_color=1f2937&hide_border=false" width="380" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
